@@ -1,6 +1,18 @@
+# results or output
+*.mp4
+*.jpg
+*.JPG
+*.png
+*.avi
+*.pdf
+*.txt
+*.tiff
+*.tif
+*.zip
+*.rar
 
-# Created by https://www.gitignore.io/api/python
-# Edit at https://www.gitignore.io/?templates=python
+Data/*
+Data
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -200,3 +212,4 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
