@@ -4,16 +4,17 @@
 *.JPG
 *.png
 *.avi
-*.pdf
 *.txt
 *.tiff
 *.tif
 *.zip
 *.rar
+*.jpeg
+*.gif
 
 Data/*
 Data
-
+slide/*
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
